@@ -97,3 +97,20 @@ __Four Principles:__
 - Civil law originates from germany and france. Common law is of british descent
 - Napolean came up with Private law (civil). known for comprehensiveness, system and simplicity of statement.
 - "An ordinary citizen must be able to interpret it without an army of specialists." Called it "code Napolean" and is now known as "code civil"
+
+- civil law focusses on the subjective state of mind of parties than does the common law.
+- "accord de volentes ..." is equivalent to "manifestation of mutual assent"
+
+- common law is much more obThe code civil asks not only promisor's intent but also the basis (cause) for committment
+  - causa (latin: cause)
+  - cause =/= consideration
+
+- unilateral promise: one way promise; works in civil not common court
+- Option without a bargain holds up in civil court not common court since it is unilateral and takes into account, the parties mental state.
+- if an offer is withdrawn in unexpected and harmful ways, offeree can invoke 'culpa incontrahendo' which is latin for for "fault or wrongdoing in contracting"
+- Pre contractual liability is enforced in civil court more than common law.
+- German : Treu and Glauben
+- Eng : Good faith and fair dealing
+
+- If you don't tell a lie, if you don't do or say anything that imposes (which involves lying to the other party), the bargain holds even if you have special knowledge.
+- anybody that has insider information -  information that is not available to the public and uses it is guilty of security fraud
