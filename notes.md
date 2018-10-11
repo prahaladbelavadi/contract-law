@@ -114,3 +114,12 @@ __Four Principles:__
 
 - If you don't tell a lie, if you don't do or say anything that imposes (which involves lying to the other party), the bargain holds even if you have special knowledge.
 - anybody that has insider information -  information that is not available to the public and uses it is guilty of security fraud
+- "Force Maejure clause": Act of god
+  - In case of an unexpected catastrophe, a clause to call the deal off
+- Expectation damages: The disapointed party, thre vitctime of the breach is entitles to be put in the same position he would've been if the contract had been kept.
+- What you're entitled to is the value you've been promised. [In case of damages] courts do not penalize but award damages only.
+
+---
+
+- An assigner assigns the debt to an assignee (Bank)
+- Obligation: obligor and obligee
