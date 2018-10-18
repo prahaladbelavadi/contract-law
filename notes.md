@@ -75,7 +75,7 @@ __Four Principles:__
 - Promise for performance: I promise to ... if ... happens (deliverables are met)
 
 ---
-- Morrir image ruleL An unequivocal and absolute acceptance requirement(conditional promise) states that an offer must be accepted exactly with no modifications i.e a mirror image oof the proposal.
+- Mirror image rule: An unequivocal and absolute acceptance requirement(conditional promise) states that an offer must be accepted exactly with no modifications i.e a mirror image oof the proposal.
 - An attempt to acceptt the offer on different terms is termed as a counter offer.
 
 - "A person should not be bound to a primise e's never made"
@@ -102,6 +102,13 @@ __Four Principles:__
 - "accord de volentes ..." is equivalent to "manifestation of mutual assent"
 
 - common law is much more obThe code civil asks not only promisor's intent but also the basis (cause) for committment
+
+- Reticence Dolosive: Fraudulent withholding of information
+- If one of the parties withhold the kowledge of or the information that would result in the other party not willingly enter into this contract or say take advantage of private, non public information; the civil law will most likely invalidate the agreement.
+  - Case Study:Laidlaw v Organ
+
+- Doctrine of bargain: {need to check}
+- The code vivil asks not only the promisor's intent but also the basis (cause) for commmitment.
   - causa (latin: cause)
   - cause =/= consideration
 
@@ -117,9 +124,70 @@ __Four Principles:__
 - "Force Maejure clause": Act of god
   - In case of an unexpected catastrophe, a clause to call the deal off
 - Expectation damages: The disapointed party, thre vitctime of the breach is entitles to be put in the same position he would've been if the contract had been kept.
-- What you're entitled to is the value you've been promised. [In case of damages] courts do not penalize but award damages only.
+- What you're entitled to is the value you've been promised.
+- __In case of damages:__ courts do not penalize but award damages only.
 
 ---
 
 - An assigner assigns the debt to an assignee (Bank)
 - Obligation: obligor and obligee
+
+- unique value: if the breach of contractinvolves surrendering property of unique value to someone else as a result of breach of contract, something that's irreplaceable or of unique value gets out of hand; in situations like these, the court can enforce specific performance or action by the person(promisor) breaching the contract.
+---
+
+- Promisor: THe part that agress to performance or action of quantity in contract that will benefit a third party
+- Promisee: The party to whom the promise to benefit a third party is made.
+- Beneficiary: The third party who is not a party to the contract, but to whom the contract will deliver a benefit.
+
+- If a promisor breaches the contract, the promisee may sue the promisor. The Beneficiary may sue the promisor directly. THe beneficiary also retains the right to sue the promisee.
+- A third party beneficiary of a gift may sue the promisor if the promisor breaches the contract. IF the promisee alters the contract so that the promisor does not grant the beneficiary the benefit; the beneficiary may not sue the promisee or the promisor.
+- Basically, if the person promises to make a gift to a third party beneficiary and revokes it, the third party beneficiary cannot sue anyone.
+
+---
+
+##### Assignment:
+
+![](./Contract-law-course.jpg)
+
+In a scenario where the bootmaker promises to pay for something at a later point of time.
+
+Assignor(promisee) sells the promise to the assignee(Third party banker). The promisor is now supposed ot pay th assignee.
+
+---
+
+- credit from 'credre' : to Believe
+- Promissory note: Assigned document containing a written promise tp pay a stated sum to a specified person or bearer at a specified date or on demand.
+  - Bank is a negotiated third party
+  - A negotiation is an Assignment free of all possible underlying conflict in a contract.
+  - A promisory note can be assigned, negotiated to a third party free and clear of any details of the original contract.
+  - The promise of the note must be unconditional as per law.
+
+- The currency note is a promissory note;
+  - promisee: the government
+  - promisor: the bearer
+---
+- Auction: {To be checked}
+  - bid is synonymous to offer
+
+- agent: Somebody who is under contract under agreement to act for(on behalf of) another person
+- partnership: Anything one of the partners does is done in the name of and on the credit of the partnership; All partners are liable for any action taken by any of the partners.
+- Agency: Obligation incurred by agent on behalf of the principal. The obligation are the principal's and not the agent's.
+- In partnerships: Each partner is a principal and an agent for all the other parties.
+- In corporate law: "They cannot pierce the corporate veil."
+
+- A corporation is a network of contracts but no one person or persons are the corporation.
+- The principalshareholders bear contractual agreement with the corporation that limits the liability they are at risk to.
+- Corporations are government entities
+- People that use corporatoins as a way of investing and limiting their risk have to do it on government terms because corporations are creations of the government.
+- In situations of unethical or non governmental conduct, the government may allow piercing of the corporate veil to allow public to recover from the shareholder's personal property.
+
+---
+__*The end*__
+---
+
+Reference:
+- [Harvardx: HLS2X Contract Law: From Trust to Promise to Contract](https://courses.edx.org/courses/course-v1:Harvardx+HLS2X+2T2018/course/)
+
+Credit: Thanks to Charles Fried and EDx
+
+-- Prahalad Belavadi
