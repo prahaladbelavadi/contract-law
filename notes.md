@@ -133,6 +133,9 @@ __Four Principles:__
 - Obligation: obligor and obligee
 
 - unique value: if the breach of contractinvolves surrendering property of unique value to someone else as a result of breach of contract, something that's irreplaceable or of unique value gets out of hand; in situations like these, the court can enforce specific performance or action by the person(promisor) breaching the contract.
+
+Reference: http://law.jrank.org/pages/10411/Specific-Performance-Inadequate-Legal-Remedy.html
+
 ---
 
 - Promisor: THe part that agress to performance or action of quantity in contract that will benefit a third party
