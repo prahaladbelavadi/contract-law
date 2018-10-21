@@ -1,20 +1,20 @@
 # Contract Law: Harvard X
-##### From trusft to promise to Contract
+##### From trust to promise to Contract
 
 <hr>
 - Contracts are everywhere
-- Cooridinating activity between free people.
+- Coordinating activity between free people.
 
-- Money is promises from people in the past and peolpe in the future
+- Money is promises from people in the past and people in the future
 
 - Buon Governo: Good Government
 - Mal governo: bad Government
 <hr>
-- Dead weirght loss: allocative inefficienty is a loss of economic effifcieny that can occur when equillibrium for a good ora service is not achieved
+- Dead Weight loss: allocative inefficiency is a loss of economic efficient that can occur when equilibrium for a good or a service is not achieved
 
 `trust=>promise=>Money=>credit=>contracts`
 
-`contracts === promises ==  committments`
+`contracts === promises ==  commitments`
 
 > contracts are promises that the government will stand behind
 - Not every promises is, or should be or could lead to a contract
@@ -24,43 +24,43 @@
 
 - Did the person intend to create a legal relationship ?
 - Did both parties take the promise seriously or as a joke ?
-  - Promises make in frolic and bankter aren't backed by the govermnet
+  - Promises make in frolic and banter aren't backed by the government
   - Explaining why a joke is funny to invalidate a promise is a necessity to the court
-  - governemnts do not enforce illegal or immoral contracts/ promiseses
-  - the governmentdoes not enforce promises that are not part of a bargain
+  - governments do not enforce illegal or immoral contracts/ promises
+  - the government does not enforce promises that are not part of a bargain
   - the government will not enforce a promise to make a gift
 
 
   ---
 
 __Four Principles:__
-- Invitation to dinner: intent to creat legal relation ?
+- Invitation to dinner: intent to create legal relation ?
 - Silver watch case(promise made when drunk among friends): Are both sides serious ?
-  - Leonard vs Pepsi: Are both sides serious ?
+  - Leonard vs. Pepsi: Are both sides serious ?
 - legal and moral ?
 - gift or bargain ?
 
-- Bargain: an agreement betweeen parties  as to what one party will do for another.
-- Bargains aer:
+- Bargain: an agreement between parties  as to what one party will do for another.
+- Bargains are:
   - commercial
   - productive interchanges
 
-- governemnts do note enforce promises that are:
+- governments do note enforce promises that are:
   - - jokes
   - part of relations between friends(frolic and banter/no intention of forming legal relationship)
   - promises to make gifts
 
-- One sided promies: Both paties must exchange value otherwise it is a one sided bargain.
+- One sided promise: Both patties must exchange value otherwise it is a one sided bargain.
 - Government does not back or stand behind one sided bargains.
-- Lack of mutualisty: Mutuality of obligation :
-- Both parties must be bound to perform their obligations or the law will treat th agreement as if neither party is bound tor intended to perform.
+- Lack of mutuality: Mutuality of obligation :
+- Both parties must be bound to perform their obligations or the law will treat the agreement as if neither party is bound or intended to perform.
   - When the offerror and the offeree exchanges  promises to perform, one party may not be given the absolute and unlimited right to cancel the contract.
 
-- Good Faith: The implied covenant of good faith and fair dealing is a generat presumption that the parties to a contract will deal with each other honestly, fairly and in good faith, so as to not destroy the right of the other party or paries to receive benefits of the contracts
-- "In every contract, theres is an implied covenant that neither party shall do anything, which will have the effect of destroying or injuring the right of the other party to receive the fruites of the contract"
+- Good Faith: The implied covenant of good faith and fair dealing is a generate presumption that the parties to a contract will deal with each other honestly, fairly and in good faith, so as to not destroy the right of the other party or parties to receive benefits of the contracts
+- "In every contract, there's is an implied covenant that neither party shall do anything, which will have the effect of destroying or injuring the right of the other party to receive the fruits of the contract"
 - "Every contract has an implied covenant of good faith and fair dealing."
 
-- basiss of contract is mutual promiseses
+- basis of contract is mutual promises
 
 
 ---
@@ -75,15 +75,15 @@ __Four Principles:__
 - Promise for performance: I promise to ... if ... happens (deliverables are met)
 
 ---
-- Mirror image rule: An unequivocal and absolute acceptance requirement(conditional promise) states that an offer must be accepted exactly with no modifications i.e a mirror image oof the proposal.
-- An attempt to acceptt the offer on different terms is termed as a counter offer.
+- Mirror image rule: An unequivocal and absolute acceptance requirement(conditional promise) states that an offer must be accepted exactly with no modifications i.e a mirror image of the proposal.
+- An attempt to accept the offer on different terms is termed as a counter offer.
 
-- "A person should not be bound to a primise e's never made"
+- "A person should not be bound to a promise e's never made"
 - Not just freedom of contract but freedom from contract.
 
 ---
 - Option: the right to require another person to uphold the agreed - upon terms
-- an option is a part of the contract but has to be exercised for the contractto come into play.
+- an option is a part of the contract but has to be exercised for the contract to come into play.
 
 
 - Promises made with enough deliberation and formality will be enforced by the government. Even if there is no actual bargain. (in cases of charitable donations)
@@ -92,29 +92,29 @@ __Four Principles:__
 
 - THe reliance on promise must be:
   - Reasonable
-  - Forseeable
+  - Foreseeable
 
-- Civil law originates from germany and france. Common law is of british descent
-- Napolean came up with Private law (civil). known for comprehensiveness, system and simplicity of statement.
-- "An ordinary citizen must be able to interpret it without an army of specialists." Called it "code Napolean" and is now known as "code civil"
+- Civil law originates from Germany and France. Common law is of British descent
+- Napoleon came up with Private law (civil). Known for comprehensiveness, system and simplicity of statement.
+- "An ordinary citizen must be able to interpret it without an army of specialists." Called it "code Napoleon" and is now known as "code civil"
 
-- civil law focusses on the subjective state of mind of parties than does the common law.
+- civil law focuses on the subjective state of mind of parties than does the common law.
 - "accord de volentes ..." is equivalent to "manifestation of mutual assent"
 
-- common law is much more obThe code civil asks not only promisor's intent but also the basis (cause) for committment
+- common law is much more obThe code civil asks not only promisor's intent but also the basis (cause) for commitment
 
 - Reticence Dolosive: Fraudulent withholding of information
-- If one of the parties withhold the kowledge of or the information that would result in the other party not willingly enter into this contract or say take advantage of private, non public information; the civil law will most likely invalidate the agreement.
+- If one of the parties withhold the knowledge of or the information that would result in the other party not willingly enter into this contract or say take advantage of private, non public information; the civil law will most likely invalidate the agreement.
   - Case Study:Laidlaw v Organ
 
 - Doctrine of bargain: {need to check}
-- The code vivil asks not only the promisor's intent but also the basis (cause) for commmitment.
-  - causa (latin: cause)
+- The code vivil asks not only the promisor's intent but also the basis (cause) for commitment.
+  - causa (Latin: cause)
   - cause =/= consideration
 
 - unilateral promise: one way promise; works in civil not common court
 - Option without a bargain holds up in civil court not common court since it is unilateral and takes into account, the parties mental state.
-- if an offer is withdrawn in unexpected and harmful ways, offeree can invoke 'culpa incontrahendo' which is latin for for "fault or wrongdoing in contracting"
+- if an offer is withdrawn in unexpected and harmful ways, offeree can invoke 'culpa incontrahendo' which is Latin for for "fault or wrongdoing in contracting"
 - Pre contractual liability is enforced in civil court more than common law.
 - German : Treu and Glauben
 - Eng : Good faith and fair dealing
@@ -123,7 +123,7 @@ __Four Principles:__
 - anybody that has insider information -  information that is not available to the public and uses it is guilty of security fraud
 - "Force Maejure clause": Act of god
   - In case of an unexpected catastrophe, a clause to call the deal off
-- Expectation damages: The disapointed party, thre vitctime of the breach is entitles to be put in the same position he would've been if the contract had been kept.
+- Expectation damages: The disappointed party, thre victim of the breach is entitles to be put in the same position he would've been if the contract had been kept.
 - What you're entitled to is the value you've been promised.
 - __In case of damages:__ courts do not penalize but award damages only.
 
@@ -132,13 +132,10 @@ __Four Principles:__
 - An assigner assigns the debt to an assignee (Bank)
 - Obligation: obligor and obligee
 
-- unique value: if the breach of contractinvolves surrendering property of unique value to someone else as a result of breach of contract, something that's irreplaceable or of unique value gets out of hand; in situations like these, the court can enforce specific performance or action by the person(promisor) breaching the contract.
-
-Reference: http://law.jrank.org/pages/10411/Specific-Performance-Inadequate-Legal-Remedy.html
-
+- unique value: if the breach of contract involves surrendering property of unique value to someone else as a result of breach of contract, something that's irreplaceable or of unique value gets out of hand; in situations like these, the court can enforce specific performance or action by the person(promisor) breaching the contract.
 ---
 
-- Promisor: THe part that agress to performance or action of quantity in contract that will benefit a third party
+- Promisor: THe part that agrees to performance or action of quantity in contract that will benefit a third party
 - Promisee: The party to whom the promise to benefit a third party is made.
 - Beneficiary: The third party who is not a party to the contract, but to whom the contract will deliver a benefit.
 
@@ -154,7 +151,7 @@ Reference: http://law.jrank.org/pages/10411/Specific-Performance-Inadequate-Lega
 
 In a scenario where the bootmaker promises to pay for something at a later point of time.
 
-Assignor(promisee) sells the promise to the assignee(Third party banker). The promisor is now supposed ot pay th assignee.
+Assignor(promisee) sells the promise to the assignee(Third party banker). The promisor is now supposed to pay th assignee.
 
 ---
 
@@ -181,7 +178,7 @@ Assignor(promisee) sells the promise to the assignee(Third party banker). The pr
 - A corporation is a network of contracts but no one person or persons are the corporation.
 - The principalshareholders bear contractual agreement with the corporation that limits the liability they are at risk to.
 - Corporations are government entities
-- People that use corporatoins as a way of investing and limiting their risk have to do it on government terms because corporations are creations of the government.
+- People that use corporations as a way of investing and limiting their risk have to do it on government terms because corporations are creations of the government.
 - In situations of unethical or non governmental conduct, the government may allow piercing of the corporate veil to allow public to recover from the shareholder's personal property.
 
 ---
